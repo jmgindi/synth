@@ -102,7 +102,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
 - **Jack Gindi** - [@jmgindi](https://github.com/jmgindi)
 
-## :mag License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details
 
