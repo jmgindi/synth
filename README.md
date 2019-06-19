@@ -4,13 +4,13 @@
 
 Inspired by how long it can take to set up the development of web apps, synth is a tool to help you build modular sets of Docker, Docker Compose, and CI/CD pipeline config files, as well as directory trees and wireframed files for different front- and backend web frameworks. synth can help you set up your next web application project in seconds, allowing you to start coding your idea with zero hassle.
 
-## :warning: Dependencies
+## Dependencies
 
 - `docker` and `docker-compose`
 
 - `python3`
 
-## :arrow_down: Installation
+## Installation
 
 Clone the repository into a new directory
 
@@ -24,7 +24,7 @@ Install via pip:
 pip3 install boot-synth
 ```
 
-## :triangular_flag_on_post: Usage
+## Usage
 
 ```
 synth create [OPTIONS]
@@ -32,7 +32,7 @@ synth create [OPTIONS]
 
 ![synth demo](assets/synth_basic_demo.gif)
 
-## :hammer_and_wrench: Options
+## Options
 
 ```
 --frontend, -f
@@ -64,7 +64,7 @@ Your choice of caching tool. Currently supported options are `redis` and `memcac
 
 Your choice of CI/CD pipeline. `travis` is currently the only supported option.
 
-## :books: Coding Style Tests
+## Coding Style Tests
 
 Strictly followed `pep8` style guide. To install:
 
@@ -89,7 +89,7 @@ $ pep8 --version
 1.7.1
 ```
 
-## :pencil: Version
+## Version
 
 - 1.0.0
 
@@ -97,16 +97,16 @@ $ pep8 --version
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## :blue_book: Authors
+## Authors
 
 - **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
 - **Jack Gindi** - [@jmgindi](https://github.com/jmgindi)
 
-## :mag: License
+## :mag License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details
 
-## :mega: Acknowledgments
+## Acknowledgments
 
 - [Holberton School](https://github.com/holbertonschool) (providing guidance)
 
