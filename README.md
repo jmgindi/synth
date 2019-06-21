@@ -2,6 +2,12 @@
 
 # synth - a Docker bootstrapping tool
 
+## WARNING
+
+This version of synth may be outdated! The most up-to-date version is kept [here](https://github.com/BennettDixon/synth).
+
+## Introduction
+
 Inspired by how long it can take to set up the development of web apps, synth is a tool to help you build modular sets of Docker, Docker Compose, and CI/CD pipeline config files, as well as directory trees and wireframed files for different front- and backend web frameworks. synth can help you set up your next web application project in seconds, allowing you to start coding your idea with zero hassle.
 
 ## Dependencies
