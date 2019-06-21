@@ -33,6 +33,13 @@ synth create [OPTIONS]
 ![synth demo](assets/synth_basic_demo.gif)
 
 ## Options
+```
+--help
+```
+
+Show help message
+
+![--help demo](assets/synth_help_demo.gif)
 
 ```
 --frontend, -f
